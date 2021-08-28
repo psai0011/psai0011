@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikiran Panthagani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Learner and Budding Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psai0011&label=Profile%20views&color=0e75b6&style=flat" alt="psai0011" /> </p>
 
