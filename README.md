@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/psai1100" target="blank"><img src="https://img.shields.io/twitter/follow/psai1100?logo=twitter&style=for-the-badge" alt="psai1100" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Dsa**
 
 - 📫 How to reach me **panthaganisai123@gmail.com**
 
