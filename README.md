@@ -50,9 +50,9 @@
   <a href="https://openai.com/chatgpt" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/> 
   </a> 
-  <a href="https://groq.com/" target="_blank"> 
+<!--   <a href="https://groq.com/" target="_blank"> 
     <img src="https://pbs.twimg.com/profile_images/1643799816963428354/ATGikRlV_400x400.jpg" alt="Groq AI" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> 
   </a> 
